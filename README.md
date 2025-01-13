@@ -13,3 +13,7 @@ Nous avons d'abord commencé par les idées globales sur le fonctionnement du pu
 Après cela, la nouvelle mission était de créer la meilleure Intelligence Artificielle possible en suivant différents critères : La rapidité, le nombre de coups pour gagner, et le nombre de parties gagnantes. Il fallait donc élaborer une stratégie capable d'obtenir les meilleurs scores, nous avons donc commencé par réfléchir aux meilleurs comportements possibles sans en impacter le temps de réponse. Ainsi est née `UtilMidEtBloq2`, une stratégie jouant principalement au milieu du plateau et bloque tout alignement de deux pions ennemis tout en s'assurant que les siens lui permettent une victoire.
 
 ## Les acquis
+- Autonomie (puis mise en commun pour travail d'équipe)
+- Refactoring
+- Optimisation
+- Stratégie
