@@ -10,7 +10,7 @@ Un exemple de code compatible est démontré et commenté dans `MaStrategie.c`
 Si besoin de compiler, il est recommandé d'utiliser `gcc nom_du_fichier.c -o nom_de_fichier_de_sortie -Wall`
 
 ## Le projet
-Nous avons été missionnées de réaliser un Puissance4 de A à Z, depuis l'idée jusqu'au codage en passant par la conception dont le maquettage. Le code du jeu est commenté et documenté et tout est fonctionnel depuis une machine Ubuntu 20.04.
+Nous avons été missionnées pour réaliser un Puissance4 de A à Z, depuis l'idée jusqu'au codage en passant par la conception dont le maquettage. Le code du jeu est commenté et documenté et tout est fonctionnel depuis une machine Ubuntu 20.04.
 
 ## Ce qui a été réalisé
 Nous avons d'abord commencé par les idées globales sur le fonctionnement du puissance4, et nous avons maquetté le fonctionnement de celui-ci. Ensuite, le jeu a été réalisé suivant le maquettage précédent, puis documenté en utilisant Doxygen. Le résultat est le fichier `puissance4.c`
